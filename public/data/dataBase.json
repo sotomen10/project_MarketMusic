@@ -2,23 +2,9 @@
   "users": [
     {
       "id": "d536",
-      "username": "sotomen10",
+      "username": "elsoto",
       "fullName": "alexis soto",
       "email": "soto.alexis@hotmail.com",
-      "password": "1234"
-    },
-    {
-      "id": "28df",
-      "username": "sotomen10",
-      "fullName": "alexis soto barreiro",
-      "email": "soto.alexis.8810@gmail.com",
-      "password": "1234"
-    },
-    {
-      "id": "887b",
-      "username": "cristian",
-      "fullName": "ortega",
-      "email": "cristian@gmail.com",
       "password": "1234"
     }
   ],
@@ -123,7 +109,7 @@
       "id": "7d68e9aa-c3a4-4ea6-bf22-9a5bf8d8b7cf",
       "username": "NarMarina",
       "logInfo": {
-        "email": "NarMarina@gmail.com",
+        "email": "example@example.com",
         "password": "1234"
       },
       "mainInfo": {
